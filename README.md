@@ -4,7 +4,7 @@ Confirming that workspace is set up properly
 
 simply prints "hello world"
 
-[Software Demo Video](https://www.loom.com/share/b27debd7baf74b099ce757222fe8ec0d)
+[Software Demo Video](https://www.loom.com/share/33d7611135d04d8e80a1f4f1c0cd1062)
 
 # Development Environment
 
